@@ -1,5 +1,7 @@
 # AGENTS.md
 
+Read and follow [.agents/rules/00-operating-principles.md](file:///.agents/rules/00-operating-principles.md) in every session.
+
 <!-- Keep this file under one page. Only include instructions and constraints the agent cannot infer directly from the code. -->
 
 ## Project One-Liner
