@@ -1,6 +1,15 @@
-# Project Template
+# Agent Project Template
 
-<!-- How to use this template: Follow this ordered checklist to initialize a new project. -->
+Stack-agnostic template designed for AI-agent-driven development (Google Antigravity, Claude Code, Cursor).
+
+## Why This Template Exists
+
+Working with coding agents across sessions often suffers from context loss, ungrounded code generation, and architectural drift. This template establishes:
+
+- **External Memory**: `.harness/progress.md` and `.harness/feature_list.json` maintain continuity across stateless agent sessions.
+- **Spec-Driven Process**: Prompts the agent to write and verify specs before writing code, reducing hallucinations.
+- **Consistent Workflows**: Standardized step-by-step procedures for each phase (session start, feature implementation, verification, review, session end).
+- **Quality & Boundary Enforcement**: Text rules in `.agents/rules/` guide agent behavior, while `.archrules/` and `.github/workflows/ci.yml` provide hard enforcement. *Note: Text instructions reduce mistakes, but actual boundary enforcement requires configuring stack-specific lint/arch tools and CI checks.*
 
 ## Getting Started Checklist
 

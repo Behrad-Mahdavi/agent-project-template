@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Read and follow [.agents/rules/00-operating-principles.md](file:///.agents/rules/00-operating-principles.md) in every session.
+Read and follow [.agents/rules/00-operating-principles.md](.agents/rules/00-operating-principles.md) in every session.
 
 <!-- Keep this file under one page. Only include instructions and constraints the agent cannot infer directly from the code. -->
 
@@ -22,8 +22,8 @@ Read and follow [.agents/rules/00-operating-principles.md](file:///.agents/rules
 <!-- Hard restrictions and anti-patterns the agent must strictly avoid. -->
 
 ## Where to Find Docs
-- Architecture & Boundaries: [docs/architecture.md](file:///docs/architecture.md)
-- Product Scope & Requirements: [docs/product.md](file:///docs/product.md)
-- Domain Terminology: [docs/glossary.md](file:///docs/glossary.md)
-- Session Progress & State: [.harness/progress.md](file:///.harness/progress.md)
-- Feature Checklist: [.harness/feature_list.json](file:///.harness/feature_list.json)
+- Architecture & Boundaries: [docs/architecture.md](docs/architecture.md)
+- Product Scope & Requirements: [docs/product.md](docs/product.md)
+- Domain Terminology: [docs/glossary.md](docs/glossary.md)
+- Session Progress & State: [.harness/progress.md](.harness/progress.md)
+- Feature Checklist: [.harness/feature_list.json](.harness/feature_list.json)
