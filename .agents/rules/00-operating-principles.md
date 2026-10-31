@@ -1,3 +1,8 @@
+---
+trigger: always_on
+description: Core operating principles and session workflow (always follow)
+---
+
 # Operating Principles (always follow)
 
 You work in discrete sessions and have NO memory between them. Files in this repo are your memory. Never rely on chat history or assumptions; rely on the files below.

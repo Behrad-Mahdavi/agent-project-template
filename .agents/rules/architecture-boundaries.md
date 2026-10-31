@@ -1,3 +1,8 @@
+---
+trigger: always_on
+description: Architectural boundaries, layer rules, and import restrictions
+---
+
 # Architecture Boundaries
 
 <!-- Architectural boundaries and dependency isolation rules. -->

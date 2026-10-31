@@ -1,3 +1,8 @@
+---
+trigger: always_on
+description: Coding style, naming, file size limits, and import conventions
+---
+
 # Project Conventions
 
 <!-- Project-specific coding standards and conventions. -->

@@ -1,3 +1,8 @@
+---
+trigger: model_decision
+description: Apply when writing, modifying, running, or reviewing tests
+---
+
 # Testing
 
 <!-- Project test policy, coverage expectations, and test execution procedures. -->
