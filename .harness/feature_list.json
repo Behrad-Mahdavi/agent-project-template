@@ -1,0 +1,4 @@
+{
+  "_comment": "Tracks all testable features across sessions. Example item shape: {\"id\": \"auth-login\", \"category\": \"Authentication\", \"description\": \"User logs in with credentials\", \"steps\": [\"enter username/password\", \"click submit\", \"verify session token issued\"], \"passes\": false}",
+  "features": []
+}

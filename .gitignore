@@ -1,0 +1,27 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Editor & IDE Directories
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build & Cache Outputs
+dist/
+build/
+out/
+target/
+.cache/
+coverage/
+*.log

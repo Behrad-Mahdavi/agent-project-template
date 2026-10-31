@@ -1,0 +1,34 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 1: Install runtime and dependencies
+      # - name: Install dependencies
+      #   run: <install-command>
+
+      # Step 2: Lint
+      # - name: Run linter
+      #   run: <lint-command>
+
+      # Step 3: Typecheck
+      # - name: Run typecheck
+      #   run: <typecheck-command>
+
+      # Step 4: Test
+      # - name: Run test suite
+      #   run: <test-command>
+
+      # Step 5: Architecture boundary check
+      # - name: Run architecture boundary check
+      #   run: <arch-check-command>
